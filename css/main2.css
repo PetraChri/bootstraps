@@ -1,0 +1,30 @@
+@charset "UTF-8";
+#overite {
+    max-width: 100rem;
+}
+
+body {
+    background-image: url(back3.png);
+    font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+
+.col-sm-3 {
+    padding: 10px 10px 10px 10px;
+    height: auto;
+}
+
+form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+label {
+    display: none;
+}
+
+input {
+    display: inline-block;
+    padding: 0.5rem;
+    width: 100%;
+    font-family: Cambria;
+}
